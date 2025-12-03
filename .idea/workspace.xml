@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd690b1-aa20-4d87-a725-69aa994dd63e" name="Changes" comment="the 4 merge">
-      <change afterPath="$PROJECT_DIR$/documentation/docs/examples.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/logging.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/mkdocs.yml" afterDir="false" />
-    </list>
+    <list default="true" id="afd690b1-aa20-4d87-a725-69aa994dd63e" name="Changes" comment="1 les done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +107,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717574533643</updated>
     </task>
+    <task id="LOCAL-00001" summary="1 les done">
+      <option name="closed" value="true" />
+      <created>1764789418296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764789418296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the 4 merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="the 4 merge" />
+    <MESSAGE value="1 les done" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 les done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
