@@ -9,4 +9,3 @@ services:
       - "8010:8010"
     volumes:
       - ./documentation:/docs:ro
-1
